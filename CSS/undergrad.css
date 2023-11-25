@@ -5,6 +5,19 @@
       padding: 0;
     }
 
+      #section1 img {
+        height: 500px;
+        width: 100%;
+      }
+
+      #undergrad-img-overlay{
+        position: absolute;
+        top: 12%;
+        /* display: flex;
+        justify-content: center; */
+        
+      }
+
     .table-container {
     display: flex;
       margin: 20px;
@@ -64,4 +77,29 @@
       text-align: left;
       background-color: white;
     }
+
+    #plain-text {
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #f1f1f1;
+      font-size: 24px;
+      text-align: center;
+    }
+    
+    #link-text {
+      position: absolute;
+      top: 60%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #f1f1f1;
+      font-size: 18px;
+      text-align: center;
+      text-decoration: underline;
+      cursor: pointer;
+      
+    }
+
+    
   

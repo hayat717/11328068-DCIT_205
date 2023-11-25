@@ -11,3 +11,23 @@
     align-items: center;
     justify-content: center;
 }
+
+#section{
+    display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+}
+
+  .footer-section {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  } 
+
+ 

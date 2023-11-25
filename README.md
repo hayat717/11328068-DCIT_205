@@ -2,10 +2,48 @@
 
 # 11328068/Zenatu Ibrahim
 
-# Header section of the  Computer Science Department Website of the University of Ghana.
-1. It contains a Home button, used for navigating through the various pages.
-2. It has an About buttonwhich gives an overview of the Department.
-3. There are also various buttons like the Faculty button which provides some basic information about the faculties in the department, the events button gives an insight into some past and present activities engaged in by the department.
+## Header section of the  Computer Science Department Website of the University of Ghana.
+University of Ghana Computer Science Department Website
+Welcome to the University of Ghana Computer Science Department's website! This project is a comprehensive web platform that provides information about various aspects of the Computer Science Department at the University of Ghana. Whether you are a prospective student, current student, faculty member, or visitor, this website is designed to offer valuable insights into our academic programs, events, faculty members, and more.
+
+## Table of Contents
+Features
+Pages
+Getting Started
+Usage
+Contributing
+License
+Features
+# Home Page: Get an overview of the Computer Science Department and access quick links to important sections.
+
+# Events Page: Stay updated on upcoming events, seminars, and activities hosted by the department.
+
+# About Page: Learn about the department's history, mission, and vision.
+
+# Faculty Page: Explore profiles of experienced and dedicated faculty members who contribute to the department's success.
+
+# Short Courses Page: Discover short-term courses offered by the department for professional development.
+
+# Contacts Page: Find contact information for reaching out to the department for inquiries or assistance.
+
+# Undergraduate Courses Page: Get detailed information about undergraduate courses offered by the department.
+
+## Pages
+Home: /HTML/Home.html
+Events: /HTML/events.html
+About:/HTML/about.html
+Faculty: /HTML/faculty.html
+Short Courses: /HTML/shortCourses.html
+Contacts: /HTML/contact.html
+
+## Getting Started
+To explore the website, simply navigate to the respective pages using the provided links. The website is designed to be user-friendly, and each page offers valuable information about the Computer Science Department at the University of Ghana.
+
+## Usage
+Feel free to use this website as a reference for creating similar platforms or as inspiration for designing departmental websites. If you encounter any issues or have suggestions for improvements, please let us know!
+
+## Contributing
+Contributions are welcome! If you would like to contribute to the development of this website, please follow the guidelines outlined in CONTRIBUTING.md.
 
 ## How to clone and set up the project:
 
@@ -26,3 +64,4 @@ $ git clone https://https://github.com/hayat717/11328068-DCIT_205.git
 If the clone was successful, a new sub-directory appears on your local drive in the directory where you cloned your repository. This directory has the same name as the Bitbucket repository that you cloned. The clone contains the files and metadata that Git requires to maintain the changes you make to the source files.
 
 ## Screenshots of some pages in the website;
+
