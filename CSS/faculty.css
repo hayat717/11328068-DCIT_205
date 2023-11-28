@@ -1,0 +1,33 @@
+section {
+   display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px; /* Adjust the height as needed */
+    background-color: #f0f0f0;
+    position: relative;
+  }
+  img{ 
+    width: 70%;
+    height: 50%;
+
+  }
+  #size{
+    width: 20%;
+    height: 65%;
+  }
+  
+  .section1 div, .section2 div {
+    border: 1px solid #ccc;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+  }
+  
+  /* Custom styling for each section */
+  .section1 {
+    background-color: #e0e0e0;
+  }
+  
+  .section2 {
+    background-color: #d0d0d0;
+  }

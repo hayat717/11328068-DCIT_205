@@ -1,33 +1,56 @@
-#shrtImg {
-    position: relative;
-    height: 500px;
-    width: 100%;
-    background-color: rgba(255, 235, 205, 0.384);
+.about-welcome {
+  display: inline-block;
+  text-align: center;
+  text-indent: 20px;
+  margin-top: 80px;
 }
-.shrt-spec {
-    /* width: 10%; */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+.about-welcome h1{
+  text-align: center;
 }
 
-#section{
-    display: flex;
-        flex-direction: row;
-        justify-content: flex-start;
+
+.abt-row {
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+.abtcourse-col {
+  border-radius: 10px;
+  padding: 20px 12px;
+  background: #5650c6a8;
+  border-radius: 10px;
+}
+.abtcourse-col img {
+  border-radius: 10px;
 }
 
-  .footer-section {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
+#course {
+  position: relative;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+#cta {
+  position: relative;
+  height: 50%;
+  width: 100%;
+  /* margin: 100px auto; */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(images/person.jpg);
+  background-position: center;
+  /* background-size: cover; */
+  border-radius: 10px;
+  text-align: center;
+  /* padding: 100px 0; */
+}
+#cta h1{
+  color: white;
+  margin-bottom: 40px;
+  padding: 0 ;
+
+}
+@media(max-width: 700px) {
+  #cta h1 {
+      font-size: 24px;
   }
-  
-  .footer-content {
-    max-width: 800px;
-    margin: 0 auto;
-  } 
-
- 
+}
