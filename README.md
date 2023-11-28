@@ -66,7 +66,7 @@ If the clone was successful, a new sub-directory appears on your local drive in 
 ## Screenshots of some pages in the website;
 
 
-## Lessons I have learnt from this Website
+## Lessons I have learnt from creating this Website
 Creating the Computer Science Department website for the University of Ghana provided valuable lessons that underscored the importance of user-centric design. Understanding the diverse needs of students, faculty, and prospective students was paramount, guiding the development of a clear and intuitive navigation structure. Ensuring a responsive design for various devices enhanced accessibility, while maintaining consistent branding elements contributed to a professional and cohesive appearance. Regularly updating the website with current information, implementing a feedback mechanism, and prioritizing accessibility and security were key considerations. Engaging and informative content played a vital role in capturing user interest and conveying the strengths of the department.Hardwork and perseverance  were pivotal in ensuring the project's success. These lessons, encompassing user experience, content strategy, and technical aspects, offer valuable insights for future web development endeavors, fostering continuous improvement and adaptability.
 
 
