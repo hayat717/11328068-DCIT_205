@@ -64,6 +64,10 @@ $ git clone https://https://github.com/hayat717/11328068-DCIT_205.git
 If the clone was successful, a new sub-directory appears on your local drive in the directory where you cloned your repository. This directory has the same name as the Bitbucket repository that you cloned. The clone contains the files and metadata that Git requires to maintain the changes you make to the source files.
 
 ## Screenshots of some pages in the website;
+![Alt text](<Screenshot (5).png>) ![Alt text](<Screenshot (6).png>) ![Alt text](<Screenshot (7).png>) ![Alt text](<Screenshot (8).png>) ![Alt text](<Screenshot (9).png>) ![Alt text](<Screenshot (10).png>) ![Alt text](<Screenshot (11).png>) ![Alt text](<Screenshot (12).png>) ![Alt text](<Screenshot (13).png>) ![Alt text](<Screenshot (14).png>) ![Alt text](<Screenshot (15).png>) ![Alt text](<Screenshot (16).png>)
+
+
+
 
 <<<<<<< HEAD
 =======
