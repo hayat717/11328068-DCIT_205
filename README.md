@@ -64,12 +64,7 @@ $ git clone https://https://github.com/hayat717/11328068-DCIT_205.git
 If the clone was successful, a new sub-directory appears on your local drive in the directory where you cloned your repository. This directory has the same name as the Bitbucket repository that you cloned. The clone contains the files and metadata that Git requires to maintain the changes you make to the source files.
 
 ## Screenshots of some pages in the website;
-![Alt text](<Screenshot (5).png>) ![Alt text](<Screenshot (6).png>) ![Alt text](<Screenshot (7).png>) ![Alt text](<Screenshot (8).png>) ![Alt text](<Screenshot (9).png>) ![Alt text](<Screenshot (10).png>) ![Alt text](<Screenshot (11).png>) ![Alt text](<Screenshot (12).png>) ![Alt text](<Screenshot (13).png>) ![Alt text](<Screenshot (14).png>) ![Alt text](<Screenshot (15).png>) ![Alt text](<Screenshot (16).png>) ![Alt text](<Screenshot (1).png>) ![Alt text](<Screenshot (2).png>) ![Alt text](<Screenshot (3).png>) ![Alt text](<Screenshot (4).png>)
-
-
-
-<<<<<<< HEAD
-=======
+![Alt text](<Screenshot (5).png>) ![Alt text](<Screenshot (6).png>) ![Alt text](<Screenshot (7).png>) ![Alt text](<Screenshot (8).png>) ![Alt text](<Screenshot (9).png>) ![Alt text](<Screenshot (10).png>) ![Alt text](<Screenshot (11).png>) ![Alt text](<Screenshot (12).png>) ![Alt text](<Screenshot (13).png>) ![Alt text](<Screenshot (14).png>) ![Alt text](<Screenshot (15).png>) ![Alt text](<Screenshot (16).png>)
 
 ## Lessons I have learnt from creating this Website
 Creating the Computer Science Department website for the University of Ghana provided valuable lessons that underscored the importance of user-centric design. Understanding the diverse needs of students, faculty, and prospective students was paramount, guiding the development of a clear and intuitive navigation structure. Ensuring a responsive design for various devices enhanced accessibility, while maintaining consistent branding elements contributed to a professional and cohesive appearance. Regularly updating the website with current information, implementing a feedback mechanism, and prioritizing accessibility and security were key considerations. Engaging and informative content played a vital role in capturing user interest and conveying the strengths of the department.Hardwork and perseverance  were pivotal in ensuring the project's success. These lessons, encompassing user experience, content strategy, and technical aspects, offer valuable insights for future web development endeavors, fostering continuous improvement and adaptability.
