@@ -65,6 +65,7 @@ If the clone was successful, a new sub-directory appears on your local drive in 
 
 ## Screenshots of some pages in the website;
 
+
 <<<<<<< HEAD
 =======
 
